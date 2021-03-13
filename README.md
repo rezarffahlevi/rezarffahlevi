@@ -1,15 +1,17 @@
 ### Hi there 👋
 
 ```bash
-My-Profile $ go to https://rezarffahlevi.github.io/
+- My-Profile # go to https://rezarffahlevi.github.io/
 
-- Mobile Developer at https://temandiabetes.com | https://temanbumil.com
-- Teknik Informatika - Universitas Pamulang
-- 181011400928 - 06TPLE010
+- Mobile Developer at # https://temandiabetes.com | https://temanbumil.com
+
+- Teknik Informatika # Universitas Pamulang
+
+- 181011400928 # 06TPLE010
 
 ```
 
-[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Reza%20Fahlevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rezarffahlevi/](https://www.linkedin.com/in/rezarffahlevi/)
+[![Linkedin: rezarffahlevi](https://img.shields.io/badge/-Reza%20Fahlevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rezarffahlevi/)](https://www.linkedin.com/in/rezarffahlevi/)
 
 <!--https://www.linkedin.com/in/rezarffahlevi/
 **rezarffahlevi/rezarffahlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
