@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```bash
-- 🔭 I’m currently working as Mobile Developer at: https://temandiabetes.com & https://temanbumil.com
+- 🔭 I’m currently working as Mobile Developer at: GUE Ecosystem (Dexa Group)
 - 🌱 I’m currently learning all about technology
 - 📫 How to reach me: https://rezarffahlevi.github.io/
 ```
